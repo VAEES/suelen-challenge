@@ -1,4 +1,4 @@
-# 🚀 Suélen B2RISE
+# 🚀 Suélen challenge
 Bem-vindo(a) ao desafio B2RISE!
 Chegou a hora de desenvolver uma arte da Suélen, nossa garota propaganda!
 Quando sua arte estiver pronta, basta encaminhar o link (e permitir o acesso se necessário) para um dos avaliadores!
