@@ -21,6 +21,7 @@ Chegou a hora de colocar a mão na massa!
 - Pode usar as artes atuais como base, fundos, detalhes, etc (em anexo)
 - Seria ótimo se a arte fosse flat (evitar sombras, camadas, etc)
 - Use sua critiatividade!
+- Use o conteudo de /resources/ com moderação. A ideia é ser uma arte completamente nova!
 - Faça baseado em um tema para ser usado no nosso projeto, por exemplo:
     * Temática de erro
     * Sem dados cadastrados
@@ -32,6 +33,7 @@ Chegou a hora de colocar a mão na massa!
 ## ✔️ Critérios de Avaliação
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
 - Criatividade
+- Originalidade
 - Fidelidade com a personagem (cabelo, camiseta, logo da empresa)
 - Fidelidade com o estilo de arte (flat)
 - Organização do projeto figma (nomenclatura dos itens, agrupamentos, uniões, etc)
