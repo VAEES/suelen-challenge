@@ -5,6 +5,8 @@ Quando sua arte estiver pronta, basta encaminhar o link (e permitir o acesso se 
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 Bom desafio!
 
+> Veja as imagems na pasta /images/ e pegue os recursos que achar necessário na pasta /resources/.
+
 ## 📋 Sobre o desafio
 Chegou a hora de colocar a mão na massa!
 - Desenvolva e exporte uma arte em SVG
