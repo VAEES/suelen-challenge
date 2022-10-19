@@ -28,7 +28,7 @@ Chegou a hora de colocar a mão na massa!
     * Sem dados de favoritos
     * Sem dados de histórico de compras 
     * Carregando
-    * Outros (seja criatívo)
+    * Outros (seja criativo)
 
 ## ✔️ Critérios de Avaliação
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
